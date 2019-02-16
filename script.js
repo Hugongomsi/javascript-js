@@ -7,7 +7,7 @@ console.log(greet);
 // 2.question;
 console.log("I'm awesome');
 //   error syntax
-console.log("I' m aweome');
+console.log('I" m aweome');
 // error correcting
 // 3.1 I declare the x value.
   let x ;
@@ -151,5 +151,5 @@ else{
   console.log(false);
 }
 // 10.3 the comparation
-console.log('it"s not possible to compare the infinitive value between them bacause they couldn"t determined the real value like a number finie 4 or 100'); 
+console.log('it"s not possible to compare the infinitive value between them because they couldn"t determined the real value like a number finie 4 or 100'); 
  
