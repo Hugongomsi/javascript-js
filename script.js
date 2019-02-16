@@ -136,7 +136,7 @@ else{
 // 10.2
 let w = -Infinity;
 let r = +Infinity;  
- if (w !=r ){
+ if (w ==r ){
    console.log(true)
   }
   else{
@@ -144,7 +144,7 @@ let r = +Infinity;
   }
 let Q=-6/0;
 let P=10/0;
-if (Q===P){
+if (Q!==P){
   console.log(true);
 }
 else{
