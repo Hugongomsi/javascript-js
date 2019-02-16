@@ -5,9 +5,9 @@ greet='good morning';
 console.log(greet);
 
 // 2.question;
-console.log('I'm awesome');
+console.log("I'm awesome');
 //   error syntax
-console.log('I m aweome');
+console.log("I' m aweome');
 // error correcting
 // 3.1 I declare the x value.
   let x ;
